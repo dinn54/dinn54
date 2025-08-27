@@ -7,11 +7,12 @@
   </p>
 </div>
 <h2></h2>
+<br/>
 <div align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=3000&color=1FA50C&center=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EA%B0%9C%EB%B0%9C%EC%9E%90+Dinn+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
-  <p> 프론트엔드 개발에 관심을 가지고 있습니다 </p>
-  <p> 사용자의 편의를 생각하면서 개발에 임하고 있습니다 </p>
-  <p> 디테일이 사용자 경험을 완성시킨다고 생각합니다</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&duration=3000&pause=3000&color=008000&center=true&width=435&weight=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%A3%BC%EC%A0%95%ED%98%81+Dinn+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+<!--   <p> 프론트엔드 개발에 관심을 가지고 있습니다 </p> -->
+<!--   <p> 사용자의 편의를 생각하면서 개발에 임하고 있습니다 </p> -->
+<!--   <p> 디테일이 사용자 경험을 완성시킨다고 생각합니다</p> -->
 </div>
 <div style="text-align: left;">
     <div align= "center"> 
