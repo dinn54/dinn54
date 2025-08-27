@@ -1,5 +1,5 @@
 <div align= "center" >
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=120&text=Dinn.dev&animation=fadeIn&fontColor=0d0d0d&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Dinn.dev&animation=fadeIn&fontColor=0d0d0d&fontSize=50" />
   <p align="center">
     <a href="https://dinn.dev" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/fluentui-system-icons/blob/main/assets/Home/SVG/ic_fluent_home_32_filled.svg" width="50" height="32" alt="home logo" /></a> 
     <a href="https://linkedin.com/in/dinn54" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo"  /></a>&nbsp 
