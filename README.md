@@ -1,3 +1,4 @@
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <div align= "center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Dinn.dev&animation=fadeIn&fontColor=0d0d0d&fontSize=50" />
   <p align="center">
