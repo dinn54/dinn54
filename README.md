@@ -29,7 +29,6 @@
             alt="dinn.dev pin" />
         </a>
       </td>
-
     </tr>
   </table>
 </div>
