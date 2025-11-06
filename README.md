@@ -16,19 +16,20 @@
   <table border="0">
     <tr>
       <td>
-        <a href="https://github.com/dinn54/dinn.dev">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=dinn54&repo=dinn.dev&hide_border=true&bg_color=00000000&title_color=5594f0&text_color=000000"
-            alt="dinn.dev pin" />
-        </a>
-      </td>
-      <td>
         <a href="https://github.com/night-shift-team/study-mate-fe">
           <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=night-shift-team&repo=study-mate-fe&hide_border=true&bg_color=00000000&title_color=5594f0&text_color=000000"
             alt="study-mate-fe pin" />
         </a>
       </td>
+      <td>
+        <a href="https://github.com/dinn54/dinn.dev">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=dinn54&repo=dinn.dev&hide_border=true&bg_color=00000000&title_color=5594f0&text_color=000000"
+            alt="dinn.dev pin" />
+        </a>
+      </td>
+
     </tr>
   </table>
 </div>
